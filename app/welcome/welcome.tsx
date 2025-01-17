@@ -9,6 +9,7 @@ export function Welcome() {
 
 
           <h1>HOLA PACHI COMO ESTOY</h1>
+          <h2 className="text-blue-800 px-5 text-9xl">Hola Cristo como vas?</h2>
           <div className="w-[500px] max-w-[100vw] p-4">
             <img
               src={logoLight}
